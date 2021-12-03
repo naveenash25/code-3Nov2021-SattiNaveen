@@ -1,0 +1,20 @@
+{
+  "name": "code-3nov2021-sattinaveen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenash25/code-3Nov2021-SattiNaveen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenash25/code-3Nov2021-SattiNaveen/issues"
+  },
+  "homepage": "https://github.com/naveenash25/code-3Nov2021-SattiNaveen#readme"
+}
