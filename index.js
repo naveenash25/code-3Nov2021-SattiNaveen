@@ -82,3 +82,5 @@ function getHealthRisk(BMI) {
 function getCountByCategory(data, category) {
     return data.filter(_ => _.BMICategory == category).length
 }
+
+module.exports = app
